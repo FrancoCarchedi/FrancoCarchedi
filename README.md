@@ -1,8 +1,4 @@
-- 👋 ¡Hola!, mi nombre es @FrancoCarchedi
-- 👀 Soy técnico superior en Análisis de Sistemas 
-- 🌱 Estoy capácitandome en Desarrollo Web 
-- 💞️ Buscando insertarme en el mundo de desarrollo 
-- 📫 CONTACTO: franconcarchedi@gmail.com 
+- 👋 ¡Hola!, mi nombre es @FrancoCarchedi y me encanta desarrollar aplicaciones en mis tiempos libres utilizando y aprendiendo distintas tecnologías.
 
 <!---
 FrancoCarchedi/FrancoCarchedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
